@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennisrogersdev&hide_title=true&show_icons=true&theme=dark&count_private=true&line_height=20&hide_rank=true" />
+</a>
 
 <!--
 **dennisrogersdev/dennisrogersdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
